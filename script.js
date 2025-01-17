@@ -7,7 +7,7 @@ document.getElementById("loginForm").addEventListener("submit", function (event)
     const errorMessage = document.getElementById("errorMessage");
 
     // Validasi sederhana
-    if (username === "rainy" && password === "sayangrainycantik") {
+    if (username === "luckyf" && password === "rainycantikfurina967") {
         alert("Login berhasil!");
         errorMessage.style.display = "none";
     } else {
